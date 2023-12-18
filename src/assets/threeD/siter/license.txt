@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sitar
+* source:	https://sketchfab.com/3d-models/sitar-41f7071e3e474e26a7898a6042123974
+* author:	Alena Markova (https://sketchfab.com/alenamarkova)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sitar" (https://sketchfab.com/3d-models/sitar-41f7071e3e474e26a7898a6042123974) by Alena Markova (https://sketchfab.com/alenamarkova) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

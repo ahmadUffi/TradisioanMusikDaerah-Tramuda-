@@ -1,0 +1,218 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 641,
+      "max": [-11.277709007263184, 70.70576477050781, 0.5444715023040771],
+      "min": [-31.618127822875977, 18.232463836669922, -1.6982238292694092],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7692,
+      "componentType": 5126,
+      "count": 641,
+      "max": [1.0, 1.0, 1.0],
+      "min": [-0.9986376166343689, -0.9995658993721008, -1.0],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 641,
+      "max": [0.7951429486274719, 0.8389357328414917],
+      "min": [0.45470142364501953, 0.24119506776332855],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1890,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 15384,
+      "componentType": 5126,
+      "count": 5175,
+      "max": [9.803528785705566, 80.02326965332031, 2.8192555904388428],
+      "min": [-9.803529739379883, 0.024730324745178223, -3.635382652282715],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 77484,
+      "componentType": 5126,
+      "count": 5175,
+      "max": [1.0, 1.0, 1.0],
+      "min": [-1.0, -1.0, -1.0],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5128,
+      "componentType": 5126,
+      "count": 5175,
+      "max": [0.5174359679222107, 0.944869339466095],
+      "min": [0.3312539756298065, 0.01859067939221859],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 7560,
+      "componentType": 5125,
+      "count": 25764,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "eeelabvisual (https://sketchfab.com/eeelabvisual)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/rebab-adr-kltn-cheisa-25-ec7a536fe0284f9a8f6d39e058f71757",
+      "title": "Rebab (ADR (KLTN) CHEISA 25)"
+    },
+    "generator": "Sketchfab-12.64.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 110616,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 46528,
+      "byteOffset": 110616,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 139584,
+      "byteOffset": 157144,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 296728,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.10450449628805425
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "2- Rebab (ADR (KLTN) CHEISA 25)_M_0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "1- Rebab (ADR (KLTN) CHEISA 25)_M_0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [1],
+      "matrix": [
+        1.0, 0.0, 0.0, 0.0, 0.0, 2.220446049250313e-16, -1.0, 0.0, 0.0, 1.0,
+        2.220446049250313e-16, 0.0, 0.0, 0.0, 0.0, 1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [2],
+      "matrix": [
+        1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0.0, 0.0,
+        0.0, 1.0
+      ],
+      "name": "Rebab (ADR (KLTN) CHEISA 25).fbx"
+    },
+    {
+      "children": [3, 5],
+      "name": "RootNode"
+    },
+    {
+      "children": [4],
+      "name": "2- Rebab (ADR (KLTN) CHEISA 25)"
+    },
+    {
+      "mesh": 0,
+      "name": "2- Rebab (ADR (KLTN) CHEISA 25)_M_0_0"
+    },
+    {
+      "children": [6],
+      "name": "1- Rebab (ADR (KLTN) CHEISA 25)"
+    },
+    {
+      "mesh": 1,
+      "name": "1- Rebab (ADR (KLTN) CHEISA 25)_M_0_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [0]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

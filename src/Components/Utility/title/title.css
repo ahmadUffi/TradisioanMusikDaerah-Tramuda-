@@ -1,0 +1,7 @@
+.title h1 {
+  color: var(--secondary);
+}
+
+.title span {
+  color: var(--green);
+}

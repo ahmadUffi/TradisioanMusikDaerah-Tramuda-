@@ -1,0 +1,52 @@
+.akun {
+  min-height: 100vvh;
+}
+
+.akun .riwayat {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 400px;
+}
+.akun .riwayat .boxCard.pending {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+}
+
+.akun .riwayat .boxCard.active {
+  display: none;
+}
+
+.akun .riwayat .btnRiwayat {
+  align-self: flex-start;
+  margin-left: 10%;
+}
+
+hr.hr {
+  width: 90%;
+  box-shadow: 0px 3px 3px -3px rgba(255, 255, 255, 0.15);
+  height: 15px;
+  outline: none;
+  border: none;
+}
+
+.akun .riwayat .btnRiwayat button {
+  background-color: var(--white) !important;
+  color: var(--secondary) !important;
+  font-weight: bold;
+  padding: 1px 22px;
+  box-shadow: rgba(17, 17, 26, 0.8) 0px 4px 16px,
+    rgba(17, 17, 26, 0.45) 0px 8px 32px;
+}
+
+@media screen and (max-width: 640px) {
+  .akun .riwayat {
+    min-height: 600px;
+  }
+}

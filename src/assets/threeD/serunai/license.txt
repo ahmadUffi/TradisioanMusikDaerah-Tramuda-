@@ -1,0 +1,11 @@
+Model Information:
+* title:	Serunai Kelantan (ADR (KLTN) CHEISA 17)
+* source:	https://sketchfab.com/3d-models/serunai-kelantan-adr-kltn-cheisa-17-6094936e8ee047f788c51627cd799674
+* author:	eeelabvisual (https://sketchfab.com/eeelabvisual)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Serunai Kelantan (ADR (KLTN) CHEISA 17)" (https://sketchfab.com/3d-models/serunai-kelantan-adr-kltn-cheisa-17-6094936e8ee047f788c51627cd799674) by eeelabvisual (https://sketchfab.com/eeelabvisual) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,324 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3483,
+      "max": [
+        4.914763450622559,
+        50.751258850097656,
+        4.914763450622559
+      ],
+      "min": [
+        -4.914764404296875,
+        0.0,
+        -4.914763450622559
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 41796,
+      "componentType": 5126,
+      "count": 3483,
+      "max": [
+        0.999996542930603,
+        1.0,
+        0.999996542930603
+      ],
+      "min": [
+        -0.999996542930603,
+        -1.0,
+        -0.999996542930603
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3483,
+      "max": [
+        0.5489490628242493,
+        0.9536228179931641
+      ],
+      "min": [
+        0.4717099666595459,
+        0.03036842867732048
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 17364,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 83592,
+      "componentType": 5126,
+      "count": 419,
+      "max": [
+        1.4337960481643677,
+        49.359256744384766,
+        1.4337960481643677
+      ],
+      "min": [
+        -1.4337960481643677,
+        44.898704528808594,
+        -1.9948174953460693
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 88620,
+      "componentType": 5126,
+      "count": 419,
+      "max": [
+        0.996249794960022,
+        0.9995049238204956,
+        0.9999878406524658
+      ],
+      "min": [
+        -0.9960048198699951,
+        -1.0,
+        -0.9996967315673828
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 27864,
+      "componentType": 5126,
+      "count": 419,
+      "max": [
+        0.5208995938301086,
+        0.9420744776725769
+      ],
+      "min": [
+        0.4756336808204651,
+        0.831292986869812
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 69456,
+      "componentType": 5125,
+      "count": 2106,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "eeelabvisual (https://sketchfab.com/eeelabvisual)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/serunai-kelantan-adr-kltn-cheisa-17-6094936e8ee047f788c51627cd799674",
+      "title": "Serunai Kelantan (ADR (KLTN) CHEISA 17)"
+    },
+    "generator": "Sketchfab-12.63.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 77880,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31216,
+      "byteOffset": 77880,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 93648,
+      "byteOffset": 109096,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 202744,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Material_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Serunai Kelantan (ADR (KLTN) CHEISA 17)_M_0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Serunai Kelantan (ADR (KLTN) CHEISA 17)_Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Serunai Kelantan (ADR (KLTN) CHEISA 17).fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "Serunai Kelantan (ADR (KLTN) CHEISA 17)"
+    },
+    {
+      "mesh": 0,
+      "name": "Serunai Kelantan (ADR (KLTN) CHEISA 17)_M_0_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Serunai Kelantan (ADR (KLTN) CHEISA 17)_Material_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Angklung Bali
+* source:	https://sketchfab.com/3d-models/angklung-bali-67a63a275dc94aa1b2ef98ef78479e41
+* author:	Revinzio (https://sketchfab.com/Ishika27)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Angklung Bali" (https://sketchfab.com/3d-models/angklung-bali-67a63a275dc94aa1b2ef98ef78479e41) by Revinzio (https://sketchfab.com/Ishika27) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

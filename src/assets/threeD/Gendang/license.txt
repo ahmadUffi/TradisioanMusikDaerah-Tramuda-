@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gendang
+* source:	https://sketchfab.com/3d-models/gendang-4444e82f7f024040b9ef470cce6e6f66
+* author:	leman0312 (https://sketchfab.com/leman0312)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gendang" (https://sketchfab.com/3d-models/gendang-4444e82f7f024040b9ef470cce6e6f66) by leman0312 (https://sketchfab.com/leman0312) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

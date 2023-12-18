@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gendang Bulo
+* source:	https://sketchfab.com/3d-models/gendang-bulo-21c60cffafad447d83a7314926241cec
+* author:	WandrModeling (https://sketchfab.com/wandrmodeling)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gendang Bulo" (https://sketchfab.com/3d-models/gendang-bulo-21c60cffafad447d83a7314926241cec) by WandrModeling (https://sketchfab.com/wandrmodeling) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
